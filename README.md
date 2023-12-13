@@ -16,7 +16,7 @@ In conclusion, I found that the that one of the most challenging portions of thi
 
 # Screencastify
 
-(https://drive.google.com/file/d/1Czl8AsPuhs39_FCX8GaMk_oLNocI1voj/view)https://drive.google.com/file/d/1Czl8AsPuhs39_FCX8GaMk_oLNocI1voj/view
+https://drive.google.com/file/d/1Czl8AsPuhs39_FCX8GaMk_oLNocI1voj/view
 
 # Licensing
 
